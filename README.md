@@ -16,3 +16,6 @@ Model yang dikembangkan terdiri dari:
 - Evaluasi performa model menggunakan metrik akurasi di dataset test MNIST.
 
 Dengan pendekatan ini, diharapkan model mampu mencapai akurasi tinggi (>99%) dalam mengklasifikasikan gambar angka tangan.
+
+## Tools
+- Python
